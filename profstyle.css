@@ -149,6 +149,51 @@ h1, h2, h3 {
     line-height: 1.8;
 }
 
+/* school background section*/
+.school_section{
+    background-color: white;
+    
+}
+.university_details{
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: medium;
+
+}
+.university_details h4{
+    position:relative;
+    justify-content: center;
+    color: var(--secondary);
+}
+.university_details p{
+    position:relative;
+    justify-content: center;
+    
+}
+.high_school_details{
+    margin: auto auto 0;
+    max-width: 800px;
+    font-size: medium;
+    
+    
+}
+.high_school_details h4{
+    position:relative;
+    justify-content: center;
+    color: var(--secondary);
+}
+.high_school_details p{
+    position:relative;
+    
+    
+}
+.high_school_details h3{
+    position:relative;
+    margin: 0 auto;
+
+    
+}
+
 /* Skills Section */
 .skills-section {
     background-color: #f5f7fa;
