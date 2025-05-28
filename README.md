@@ -70,15 +70,8 @@ This project is licensed under the **Eclipse Public License 2.0** – see [LICEN
 Let's collaborate or just say hi! 👋  
 
 📧 **Email**: [muthelophindulo223@gmail.com](mailto:[muthelophindulo223@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/muthelophindulo)  
+💼 **LinkedIn**: [linkedin.com/in/muthelophindulo]([https://linkedin.com/in/muthelophindulo](https://www.linkedin.com/in/muthelo-phindulo-942961209/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFyP7aQcUQHOqzbB9gu4xjQ%3D%3D))  
 ---
-
-⭐ **Enjoy exploring my portfolio?** Give the repo a star! ⭐  
-
-```sh
-# If you're feeling extra awesome 😎
-curl -X POST https://api.github.com/user/starred/yourusername/portfolio -H "Authorization: token YOUR_GITHUB_TOKEN"
-```
 
 ---
 
