@@ -236,6 +236,33 @@ h1, h2, h3 {
     color: var(--accent);
 }
 
+/*certificates section*/
+.certificates-section{
+    background-color: #f5f7fa;
+}
+
+.certificates-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(3000px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+}
+.certificate_card{
+    background: white;
+    width:190px;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease;
+}
+.certificate_card:hover{
+    transform: translateY(-10px);
+}
+.certificate_card h3{
+    color: var(--secondary);
+    margin-bottom: 15px;
+}
+
 /* Projects Section */
 .projects-grid {
     display: grid;
@@ -352,3 +379,4 @@ footer {
         padding: 60px 0;
     }
 }
+
