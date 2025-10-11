@@ -54,9 +54,8 @@ Welcome to my digital portfolio! ✨ This website is a vibrant showcase of my sk
 ├── 📄 index.html
 ├── 📄 protstyle.css
 ├── 📄 script.js
-├── 🖼️ self.jpg
-│
-└── 📄 Add files via upload (Note: This appears to be a commit message, not an actual file)
+└── 🖼️ self.jpg
+
 ```
 
 ---
