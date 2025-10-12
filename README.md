@@ -1,7 +1,8 @@
 # 🌟 **Portfolio Website**  
 ### MUTHELO PHINDULO — SOFTWARE ENGIENEER  
 
-Welcome to my digital portfolio! ✨ This website is a vibrant showcase of my skills, projects, and professional journey that was crafted with creativity and attention to detail.  
+Welcome to my digital portfolio! ✨ This website is a vibrant showcase of my skills, projects, and professional journey that was crafted with creativity and attention to detail.
+https://muthelophindulo.github.io/mutelephindulo.github.io/
 
 ---
 
